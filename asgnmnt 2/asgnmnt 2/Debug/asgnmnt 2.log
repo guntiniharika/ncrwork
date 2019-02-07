@@ -1,0 +1,12 @@
+﻿  reverse.c
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 2\asgnmnt 2\reverse.c(14): warning C4013: 'fmain' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 2\asgnmnt 2\reverse.c(15): warning C4013: 'pmain' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 2\asgnmnt 2\reverse.c(16): warning C4013: 'bmain' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 2\asgnmnt 2\reverse.c(17): warning C4013: 'hmain' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 2\asgnmnt 2\reverse.c(18): warning C4013: 'system' undefined; assuming extern returning int
+  binhex.c
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 2\asgnmnt 2\binhex.c(29): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 2\asgnmnt 2\binhex.c(5): warning C4101: 'rem': unreferenced local variable
+  Generating Code...
+  asgnmnt 2.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\asgnmnt 2\Debug\asgnmnt 2.exe
+  asgnmnt 2.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\asgnmnt 2\Debug\asgnmnt 2.pdb (Full PDB)
