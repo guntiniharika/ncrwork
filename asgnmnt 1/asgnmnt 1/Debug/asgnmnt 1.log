@@ -1,0 +1,11 @@
+﻿  sum of digits.c
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 1\asgnmnt 1\sum of digits.c(15): warning C4013: 'pmain' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 1\asgnmnt 1\sum of digits.c(16): warning C4013: 'amain' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 1\asgnmnt 1\sum of digits.c(17): warning C4013: 'tmain' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 1\asgnmnt 1\sum of digits.c(18): warning C4013: 'smain' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 1\asgnmnt 1\sum of digits.c(19): warning C4013: 'mmain' undefined; assuming extern returning int
+c:\users\pc\documents\visual studio 2015\projects\asgnmnt 1\asgnmnt 1\sum of digits.c(20): warning C4013: 'system' undefined; assuming extern returning int
+  minmaxavg.c
+  Generating Code...
+  asgnmnt 1.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\asgnmnt 1\Debug\asgnmnt 1.exe
+  asgnmnt 1.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\asgnmnt 1\Debug\asgnmnt 1.pdb (Full PDB)
