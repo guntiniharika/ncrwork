@@ -1,0 +1,4 @@
+﻿  p4.cpp
+c:\users\pc\documents\visual studio 2015\projects\cpp asgnmnt2\p4.cpp\p4.cpp(35): warning C4285: return type for 'complex::operator ->' is recursive if applied using infix notation
+  p4.cpp.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\cpp asgnmnt2\Debug\p4.cpp.exe
+  p4.cpp.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\cpp asgnmnt2\Debug\p4.cpp.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  p1.cpp
+c:\users\pc\documents\visual studio 2015\projects\cpp asgnmnt2\p1.cpp\p1.cpp(27): warning C4305: 'argument': truncation from 'double' to 'float'
+  p1.cpp.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\cpp asgnmnt2\Debug\p1.cpp.exe
+  p1.cpp.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\cpp asgnmnt2\Debug\p1.cpp.pdb (Full PDB)
