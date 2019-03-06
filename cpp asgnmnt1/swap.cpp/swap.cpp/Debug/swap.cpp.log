@@ -1,0 +1,4 @@
+﻿  swap.cpp
+c:\users\pc\documents\visual studio 2015\projects\swap.cpp\swap.cpp\swap.cpp(14): warning C4060: switch statement contains no 'case' or 'default' labels
+c:\users\pc\documents\visual studio 2015\projects\swap.cpp\swap.cpp\swap.cpp(20): error C2043: illegal break
+c:\users\pc\documents\visual studio 2015\projects\swap.cpp\swap.cpp\swap.cpp(25): error C2043: illegal break

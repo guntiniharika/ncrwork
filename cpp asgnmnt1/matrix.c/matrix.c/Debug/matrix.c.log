@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\pc\documents\visual studio 2015\projects\matrix.c\matrix.c\source.cpp(55): warning C4715: 'Multiply': not all control paths return a value
+  matrix.c.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\matrix.c\Debug\matrix.c.exe
+  matrix.c.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\matrix.c\Debug\matrix.c.pdb (Full PDB)
