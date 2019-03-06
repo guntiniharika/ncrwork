@@ -1,0 +1,5 @@
+﻿  createprocess0.cpp
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\createprocess0.cpp\createprocess0.cpp(10): warning C4101: 'hThread': unreferenced local variable
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\createprocess0.cpp\createprocess0.cpp(9): warning C4101: 'hProcess': unreferenced local variable
+  createprocess0.cpp.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\windows.cpp\Debug\createprocess0.cpp.exe
+  createprocess0.cpp.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\windows.cpp\Debug\createprocess0.cpp.pdb (Full PDB)

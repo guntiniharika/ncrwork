@@ -1,0 +1,9 @@
+﻿  handleinherit.cpp
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\hadleinherit.cpp\handleinherit.cpp(40): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\hadleinherit.cpp\handleinherit.cpp(42): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\hadleinherit.cpp\handleinherit.cpp(76): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\hadleinherit.cpp\handleinherit.cpp(78): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\hadleinherit.cpp\handleinherit.cpp(30): warning C4101: 'nbr': unreferenced local variable
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\hadleinherit.cpp\handleinherit.cpp(11): warning C4101: 'buff': unreferenced local variable
+  hadleinherit.cpp.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\windows.cpp\Debug\hadleinherit.cpp.exe
+  hadleinherit.cpp.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\windows.cpp\Debug\hadleinherit.cpp.pdb (Full PDB)

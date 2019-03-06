@@ -1,0 +1,16 @@
+﻿  readfile.cpp
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(12): warning C4002: too many actual parameters for macro '_T'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(25): warning C4002: too many actual parameters for macro '_T'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(12): warning C4473: 'wprintf' : not enough arguments passed for format string
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(12): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(12): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(25): warning C4473: 'wprintf' : not enough arguments passed for format string
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(25): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(25): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(31): warning C4477: 'wprintf' : format string '%S' requires an argument of type 'char *', but variadic argument 1 has type 'TCHAR *'
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(31): note: consider using '%lS' in the format string
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(31): note: consider using '%llS' in the format string
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(31): note: consider using '%LS' in the format string
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\readfile.cpp\readfile.cpp(31): note: consider using '%wS' in the format string
+  readfile.cpp.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\windows.cpp\Debug\readfile.cpp.exe
+  readfile.cpp.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\windows.cpp\Debug\readfile.cpp.pdb (Full PDB)

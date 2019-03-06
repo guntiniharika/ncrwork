@@ -1,0 +1,11 @@
+﻿  write.cpp
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\write.cpp\write.cpp(12): warning C4002: too many actual parameters for macro '_T'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\write.cpp\write.cpp(25): warning C4002: too many actual parameters for macro '_T'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\write.cpp\write.cpp(12): warning C4473: 'wprintf' : not enough arguments passed for format string
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\write.cpp\write.cpp(12): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\write.cpp\write.cpp(12): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\pc\documents\visual studio 2015\projects\windows.cpp\write.cpp\write.cpp(25): warning C4473: 'wprintf' : not enough arguments passed for format string
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\write.cpp\write.cpp(25): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\pc\documents\visual studio 2015\projects\windows.cpp\write.cpp\write.cpp(25): note: the missing variadic argument 1 is required by format string '%d'
+  write.cpp.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\windows.cpp\Debug\write.cpp.exe
+  write.cpp.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\windows.cpp\Debug\write.cpp.pdb (Full PDB)
